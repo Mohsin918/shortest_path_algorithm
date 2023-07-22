@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
-import logo from 'C:/Users/suraj/Desktop/pathFinder/Pathfinding/src/PathfindingVisualizer/gfg-new-logo.png';
 import Node from './Node/Node';
-import {dijkstra, getNodesInShortestPathOrder} from '../algorithms/dijkstra';
+import {dijkstra, getNodesInShortestPathOrder} from '../algorithms/dijkstra.js';
 
 import './PathfindingVisualizer.css';
 
@@ -80,7 +79,6 @@ export default class PathfindingVisualizer extends Component {
     return (
       <>
       <div className="logo">
-          <img src={logo} width="100" height="50" />
         </div>
         <button onClick={() => this.visualizeDijkstra()}>
           Visualize Dijkstra's Algorithm
