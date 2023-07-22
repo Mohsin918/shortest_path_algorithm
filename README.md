@@ -1,6 +1,7 @@
 # Dijkstra's Shortest Path Visualization
 
 ## Introduction
+Welcome to Dijkstra's Shortest Path Visualization project! This project aims to provide a visual representation of Dijkstra's algorithm, a popular graph traversal algorithm used to find the shortest path between two nodes in a graph.
 
 
 ## Getting Started
