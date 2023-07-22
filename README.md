@@ -23,8 +23,9 @@ npm start
 
 ###Screenshots
 
-![start_end_points](https://github.com/Mohsin918/shortest_path_algorithm/assets/58115232/b0f626fd-d405-4181-af3a-9d50a59971aa)
+![start_end_points](https://github.com/Mohsin918/shortest_path_algorithm/assets/58115232/90bac5c8-9004-4690-aae9-e5f248d80349)
 
-![create_wall](https://github.com/Mohsin918/shortest_path_algorithm/assets/58115232/5523e198-1bfe-41cd-a5b5-0f2d824a2ca0)
+![create_wall](https://github.com/Mohsin918/shortest_path_algorithm/assets/58115232/21227213-3f1a-4063-90ee-2eba4854bb37)
 
-![run_Algorithm](https://github.com/Mohsin918/shortest_path_algorithm/assets/58115232/7971e894-4eb7-424b-8926-e8bc9e28f239)
+![run_Algorithm](https://github.com/Mohsin918/shortest_path_algorithm/assets/58115232/bae2b2c8-8f73-4e4f-9031-f581a7318e28)
+
