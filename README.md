@@ -20,3 +20,11 @@ Once the dependencies are installed, you can start the development server using 
 npm install
 
 npm start
+
+###Screenshots
+
+![start_end_points](https://github.com/Mohsin918/shortest_path_algorithm/assets/58115232/b0f626fd-d405-4181-af3a-9d50a59971aa)
+
+![create_wall](https://github.com/Mohsin918/shortest_path_algorithm/assets/58115232/5523e198-1bfe-41cd-a5b5-0f2d824a2ca0)
+
+![run_Algorithm](https://github.com/Mohsin918/shortest_path_algorithm/assets/58115232/7971e894-4eb7-424b-8926-e8bc9e28f239)
