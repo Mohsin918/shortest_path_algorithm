@@ -27,5 +27,8 @@ npm start
 
 ![create_wall](https://github.com/Mohsin918/shortest_path_algorithm/assets/58115232/21227213-3f1a-4063-90ee-2eba4854bb37)
 
+![action](https://github.com/Mohsin918/shortest_path_algorithm/assets/58115232/f83d62a2-5161-4990-9066-1d0a2180c1a2)
+
+
 ![run_Algorithm](https://github.com/Mohsin918/shortest_path_algorithm/assets/58115232/bae2b2c8-8f73-4e4f-9031-f581a7318e28)
 
